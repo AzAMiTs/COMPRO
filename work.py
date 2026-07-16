@@ -1,8 +1,8 @@
 print("Please select operation -")
-print("1. Add")
-print("2. Subtract")
-print("3. Multiply")
-print("4. Divide")
+print("1. Add +")
+print("2. Subtract -")
+print("3. Multiply *")
+print("4. Divide /")
 opt = int(input("Select operations form 1,2,3,4 :"))
 if opt < 5:
     num1 = int(input("Enter first number :"))
